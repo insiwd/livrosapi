@@ -1,5 +1,5 @@
 
-# Livros API
+# Livros API, LiterAlura
 
 > Livros API é uma aplicação que permite buscar, listar e gerenciar informações de livros, autores e idiomas, com dados provenientes da API do Projeto Gutendex. O foco é praticar habilidades de backend em Java, além de consolidar conhecimentos em consumo de APIs REST, persistência de dados e boas práticas de desenvolvimento.
 
